@@ -1,0 +1,7 @@
+name: CKEditor Bootstrap link buttons
+type: module
+description: CKEditor Bootstrap button link
+core: 8.x
+package: Custom
+dependencies:
+  - ckeditor

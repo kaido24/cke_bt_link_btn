@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains cke_bt_link_btn.module..
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function cke_bt_link_btn_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the cke_bt_link_btn module.
+    case 'help.page.cke_bt_link_btn':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('CKEditor Bootstrap button link') . '</p>';
+      return $output;
+
+    default:
+  }
+}
