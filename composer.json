@@ -1,7 +1,7 @@
 
 {
     "name": "kaido24/cke_bt_link_btn",
-    "description": "Drupal 8",
+    "description": "Drupal 8 ckeditor button link",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "authors": [
