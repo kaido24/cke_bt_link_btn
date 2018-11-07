@@ -1,1 +1,13 @@
 
+{
+    "name": "kaido24/cke_bt_link_btn",
+    "description": "Drupal 8",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Kaido Toomingas",
+            "email": "kaido@web3.ee"
+        }
+    ]
+}
