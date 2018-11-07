@@ -1,12 +1,14 @@
 {
-    "name": "kaido24/cke_bt_link_btn",
-    "description": "Drupal 8 ckeditor button link",
-    "type": "drupal-module",
-    "license": "GPL-2.0-or-later",
-    "authors": [
-        {
-            "name": "Kaido Toomingas",
-            "email": "kaido@web3.ee"
-        }
-    ]
+  "name": "drupal/cke_bt_link_btn",
+  "type": "drupal-module",
+  "description": "Drupal 8 ckeditor bootstrap button link",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://webpro.ee",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/kaido24/cke_bt_link_btn/issues",
+    "source": "https://github.com/kaido24/cke_bt_link_btn"
+  },
+  "require": { }
 }
