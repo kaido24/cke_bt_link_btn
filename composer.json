@@ -1,5 +1,5 @@
 {
-  "name": "drupal/cke_bt_link_btn",
+  "name": "kaido24/cke_bt_link_btn",
   "type": "drupal-module",
   "description": "Drupal 8 ckeditor bootstrap button link",
   "keywords": ["Drupal"],
