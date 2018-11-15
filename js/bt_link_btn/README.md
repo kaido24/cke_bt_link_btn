@@ -1,0 +1,12 @@
+# Bootstrap link buttons
+Bootstrap 3 buttons for CKEditor 4
+
+This is CKEditor widget plugin for inserting Bootstrap buttons.
+
+Bootstrap grid widget for CKEditor >= 4.3 It depends on ckeditor widget plugin. http://ckeditor.com/addon/widget It only works properly with bootstrap 3 enabled websites since otherwise it is just some html.
+
+##Other Bootstrap 3 software for CKEditor 4
+
+Bootstrap 3 Quicktable https://github.com/kaido24/btquicktable
+
+Bootstrap 3 grid https://github.com/kaido24/bt_table
